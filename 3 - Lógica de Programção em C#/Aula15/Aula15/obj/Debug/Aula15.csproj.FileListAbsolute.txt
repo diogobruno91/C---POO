@@ -1,0 +1,6 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula15\Aula15\bin\Debug\Aula15.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula15\Aula15\bin\Debug\Aula15.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula15\Aula15\bin\Debug\Aula15.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula15\Aula15\obj\Debug\Aula15.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula15\Aula15\obj\Debug\Aula15.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula15\Aula15\obj\Debug\Aula15.pdb

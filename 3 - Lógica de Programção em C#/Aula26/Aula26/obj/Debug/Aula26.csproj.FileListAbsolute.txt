@@ -1,0 +1,5 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula26\Aula26\bin\Debug\Aula26.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula26\Aula26\bin\Debug\Aula26.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula26\Aula26\bin\Debug\Aula26.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula26\Aula26\obj\Debug\Aula26.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\Lógica de Programção em C#\Aula26\Aula26\obj\Debug\Aula26.pdb

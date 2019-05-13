@@ -1,0 +1,6 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula42\Aula42\bin\Debug\Aula42.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula42\Aula42\bin\Debug\Aula42.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula42\Aula42\bin\Debug\Aula42.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula42\Aula42\obj\Debug\Aula42.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula42\Aula42\obj\Debug\Aula42.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula42\Aula42\obj\Debug\Aula42.pdb

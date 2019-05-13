@@ -1,0 +1,6 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula38\Aula38\bin\Debug\Aula38.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula38\Aula38\bin\Debug\Aula38.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula38\Aula38\bin\Debug\Aula38.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula38\Aula38\obj\Debug\Aula38.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula38\Aula38\obj\Debug\Aula38.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\4 - Classes, atributos, metodos\Aula38\Aula38\obj\Debug\Aula38.pdb
