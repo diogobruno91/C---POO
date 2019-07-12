@@ -1,0 +1,6 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula82\Aula82\bin\Debug\Aula82.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula82\Aula82\obj\Debug\Aula82.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula82\Aula82\bin\Debug\Aula82.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula82\Aula82\bin\Debug\Aula82.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula82\Aula82\obj\Debug\Aula82.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula82\Aula82\obj\Debug\Aula82.pdb

@@ -1,0 +1,6 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula87\Aula87\bin\Debug\Aula87.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula87\Aula87\bin\Debug\Aula87.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula87\Aula87\bin\Debug\Aula87.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula87\Aula87\obj\Debug\Aula87.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula87\Aula87\obj\Debug\Aula87.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula87\Aula87\obj\Debug\Aula87.pdb

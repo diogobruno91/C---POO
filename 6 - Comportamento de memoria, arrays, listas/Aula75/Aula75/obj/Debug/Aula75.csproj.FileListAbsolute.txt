@@ -1,0 +1,6 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula75\Aula75\bin\Debug\Aula75.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula75\Aula75\bin\Debug\Aula75.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula75\Aula75\bin\Debug\Aula75.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula75\Aula75\obj\Debug\Aula75.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula75\Aula75\obj\Debug\Aula75.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\6 - Comportamento de memoria, arrays, listas\Aula75\Aula75\obj\Debug\Aula75.pdb

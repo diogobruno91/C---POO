@@ -1,0 +1,5 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula86\Aula86\bin\Debug\Aula86.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula86\Aula86\bin\Debug\Aula86.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula86\Aula86\bin\Debug\Aula86.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula86\Aula86\obj\Debug\Aula86.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\7 - Tópicos especiais em C# PARTE 1\Aula86\Aula86\obj\Debug\Aula86.pdb

@@ -1,0 +1,6 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\5 - Contrutores, this, sobrecarga, encapsulamento\Aula56\Aula56\bin\Debug\Aula56.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\5 - Contrutores, this, sobrecarga, encapsulamento\Aula56\Aula56\bin\Debug\Aula56.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\5 - Contrutores, this, sobrecarga, encapsulamento\Aula56\Aula56\bin\Debug\Aula56.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\5 - Contrutores, this, sobrecarga, encapsulamento\Aula56\Aula56\obj\Debug\Aula56.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\5 - Contrutores, this, sobrecarga, encapsulamento\Aula56\Aula56\obj\Debug\Aula56.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\5 - Contrutores, this, sobrecarga, encapsulamento\Aula56\Aula56\obj\Debug\Aula56.pdb

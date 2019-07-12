@@ -1,0 +1,6 @@
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\16 - Expressões lambda, delegates. LINQ\Aula217\Aula217\bin\Debug\Aula217.exe.config
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\16 - Expressões lambda, delegates. LINQ\Aula217\Aula217\bin\Debug\Aula217.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\16 - Expressões lambda, delegates. LINQ\Aula217\Aula217\bin\Debug\Aula217.pdb
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\16 - Expressões lambda, delegates. LINQ\Aula217\Aula217\obj\Debug\Aula217.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\16 - Expressões lambda, delegates. LINQ\Aula217\Aula217\obj\Debug\Aula217.exe
+C:\Users\dbruno\Desktop\estudo\C# COMPLETO 2019\16 - Expressões lambda, delegates. LINQ\Aula217\Aula217\obj\Debug\Aula217.pdb
